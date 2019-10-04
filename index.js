@@ -6,7 +6,3 @@ function updateObjectWithKeyAndValue(recipes, food, ingredient){
   return recipes;
 }
 
-function updateObjectWithKeyAndValue(recipes, food, ingredient) {
-  const recipe =  { food: "ingredient"};
-  return updateObjectWithKeyAndValue(recipes, food, ingredient);
-}
