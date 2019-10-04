@@ -7,5 +7,6 @@ function updateObjectWithKeyAndValue(recipes, food, ingredient){
 }
 
 function updateObjectWithKeyAndValue(recipes, food, ingredient) {
-  const recipes =  { food: "ingredient"};
+  const recipe =  { food: "ingredient"};
+  
 }
