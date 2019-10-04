@@ -10,5 +10,5 @@ function destructivelyUpdateObjectWithKeyAndValue(recipes, food, ingredient) {
   
   recipes[food] = newIngredient
   
-  
+  return recipes
 }
